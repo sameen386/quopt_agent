@@ -1,0 +1,5 @@
+Test,Comparison,Statistic,p-value,Effect size,Significant (alpha = 0.05)
+Paired t-test,QuOpt-Agents vs Classical MVO,t = 6.227,< 0.001,Cohen's d = 0.881,Yes
+Wilcoxon signed-rank,QuOpt-Agents vs Classical MVO,"W+ = 630 (max 630), Z = 5.16",< 0.001,—,Yes
+Paired t-test,QuOpt-Agents vs Strong Greedy,t = 3.326,0.0017,Cohen's d = 0.470,Yes
+Wilcoxon signed-rank,QuOpt-Agents vs Strong Greedy,"W+ = 210 (max 210), Z = 3.92",< 0.001,—,Yes

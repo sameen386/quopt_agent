@@ -1,0 +1,4 @@
+Metric,Mean Sharpe ratio,Win rate of the baseline against QuOpt-Agents (%),Aggregate improvement of QuOpt-Agents (%),p-value (paired t-test)
+Classical MVO,1.147,30,40.5,< 0.001
+Strong Greedy,1.594,60,1.1,0.0017
+QuOpt-Agents (ours),1.612,Baseline,—,—

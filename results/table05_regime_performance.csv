@@ -1,0 +1,6 @@
+Regime,Scenarios,Win rate vs Classical MVO (%),Win rate vs Strong Greedy (%),QuOpt-Agents mean Sharpe
+Bull,14,35.7,64.3,3.097
+Bear,11,100.0,18.2,-0.066
+Choppy,6,66.7,66.7,1.957
+Volatile,7,100.0,14.3,1.254
+Recovery,12,66.7,33.3,1.453

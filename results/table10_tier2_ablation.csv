@@ -1,0 +1,6 @@
+Tier-2 configuration (Tiers 1 and 3 unchanged),Mean seed Sharpe (before Tier 3),Mean final OOS Sharpe,Optimality hit rate (%),Mean Tier-3 swaps,Mean runtime (s)
+Tier 2 = simulated QAOA (proposed),2.238,1.716,100,12.55,59.213
+Tier 2 = uniform random sampling,2.461,1.716,100,7.35,0.874
+Tier 2 = Strong Greedy seed,2.442,1.716,100,7.60,0.051
+Tier 2 = simulated-annealing seed,2.531,1.716,100,0.00,1.445
+Tier 2 removed (random feasible seed),0.657,1.716,100,29.05,0.123

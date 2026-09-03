@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "B": 5,
+  "n_windows": 20,
+  "n_scenarios": 50,
+  "lookback": 126,
+  "horizon": 63,
+  "qaoa": {
+    "depth": 2,
+    "shots": 1024,
+    "max_qubits": 22,
+    "expectation_mode": "shots",
+    "optimizer": "COBYLA",
+    "maxiter": 60,
+    "rhobeg": 0.3,
+    "tol": 0.0001,
+    "n_restarts": 2,
+    "lambda_kappa": 10.0
+  }
+}

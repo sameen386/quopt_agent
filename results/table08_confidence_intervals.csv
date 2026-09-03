@@ -1,0 +1,6 @@
+Comparison,Mean difference,SD of differences,SE,95% CI of the paired difference,Excludes zero?
+QuOpt-Agents vs Classical MVO,0.465,0.528,0.0747,"[0.315, 0.615]",Yes
+QuOpt-Agents vs Strong Greedy,0.018,0.039,0.0055,"[0.007, 0.029]",Yes
+"QuOpt-Agents (marginal interval, descriptive only)",1.612,—,—,"[1.175, 2.049]",—
+"Classical MVO (marginal interval, descriptive only)",1.147,—,—,"[0.618, 1.676]",—
+"Strong Greedy (marginal interval, descriptive only)",1.594,—,—,"[1.161, 2.027]",—

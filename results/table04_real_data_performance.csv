@@ -1,0 +1,9 @@
+Method,Mean OOS Sharpe,Std,Optimality hit rate (%),Runtime (s)
+Exhaustive enumeration,1.716,2.128,100,0.251
+Classical MVO,1.577,2.045,25,0.028
+Strong Greedy,1.480,1.956,20,0.000
+GA,1.716,2.128,100,0.807
+PSO,1.822,2.062,70,0.246
+DE,1.716,2.128,100,0.660
+SA,1.716,2.128,100,0.191
+QuOpt-Agents,1.716,2.128,100,58.622

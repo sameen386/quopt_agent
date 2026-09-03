@@ -1,0 +1,5 @@
+Instance,"C(N, B)",Exact optimum,Best classical heuristic,QuOpt-Agents
+"N=16,B=5","4,368",2.592,2.592,2.592
+"N=20,B=6","38,760",2.292,2.292,2.292
+"N=30,B=8","5,852,925",Not enumerable,1.478,Not simulable
+"N=40,B=10","847,660,528",Not enumerable,4.550,Not simulable

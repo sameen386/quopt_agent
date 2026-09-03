@@ -1,0 +1,3 @@
+Comparison,I_sw mean (%),I_sw median (%),I_sw 10% trimmed mean (%),SEM (%),Scenarios used,Excluded (baseline near zero)
+QuOpt-Agents vs Classical MVO,176.04,20.03,53.03,95.72,50,0
+QuOpt-Agents vs Strong Greedy,1.13,0.00,0.49,0.36,50,0

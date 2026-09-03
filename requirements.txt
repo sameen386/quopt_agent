@@ -1,0 +1,17 @@
+# Runtime dependencies.
+#
+# Lower bounds only, so that the package installs on current interpreters.
+# Before archiving a release, run
+#     pip freeze > requirements-lock.txt
+# and commit that file as well: the lock file is what makes a run bit-for-bit
+# reproducible, and it is the file the manuscript should cite for exact
+# versions.
+
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+yfinance>=0.2.40
+tabulate>=0.9          # pandas .to_markdown() backend for tables.md
+python-docx>=1.1       # optional, only for results/tables.docx
+pytest>=8.0            # tests
